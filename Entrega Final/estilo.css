@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+     -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+     box-sizing: border-box;
+      }
+
+    body {
+       
+        background-color: #F1FFFA;
+        font-family: Arial, Sans-serif;
+     font-size: 20px ;
+    
+    }
+    
+    .productContainer {
+        display: flex;
+        flex-wrap: wrap;
+        width: 800px;
+        margin: 10px;
+      overflow: hidden;
+        
+      }
+
+      header{
+          background-color:#454545;
+          color:#ffffff
+        }
+
+
+      header nav {
+          width: 100%;
+          }
+          header nav ul {
+         width: 100%;     
+        overflow: hidden;
+        list-style: none;
+        }
+        header nav ul li {
+            float: left;
+        }
+
+        header nav ul li a {
+            text-decoration: none;
+            display: inline-block;
+            padding: 15px 40px;
+            color:#F7E4DE   
+            
+        }
+            
+            
+            header nav ul li a:hover{
+                background: #000000;
+                color: #fafafa;
+                
+            }
+
+        .main{
+            width: 700px;
+            background :#4D5057 ;
+          float: left;
+          
+        }
+        .main .imagen{
+             width: 100%;
+        }
+        .main .imagen img {
+            width: 100%;
+        vertical-align: top;
+        }
+.main .post {
+    padding: 40px;
+    
+}
+.main .post article h2 {
+     margin-bottom: 20px;
+     color:#424242; 
+     
+}
+
+.main .post article p {
+    margin-bottom: 15px;
+    line-height:  27px;
+}
+
+aside{
+width: 300px;
+background: dimgrey;
+padding: 20px;
+color: #ffffff;
+float: left;
+}
+
+aside .widget{
+    margin-bottom: 20px;
+}
+
+aside .widget .titulo {
+color: crimson;
+border-bottom:  1px solid crimson;
+margin-bottom: 10px;
+}
+aside .widget ul {
+    list-style:none;
+}
+aside .widget ul li {
+    border-bottom: 1px solid rgba(255, 255,255,);
+    padding:10px 0;
+
+}
+aside  .widget ul li a {
+    color: #ffffff;
+    text-decoration:none;
+}
+
+footer {
+    width: 700px;
+    background-color: black;
+    color: white;
+    padding: 15px 10px;
+    text-align: center;
+clear:both;
+}
+
+
+#bodi {
+   
+    margin: auto ; 
+    max-width: 1000px;
+  
+}
+
+#container {
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}

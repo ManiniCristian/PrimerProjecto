@@ -1,0 +1,66 @@
+[{
+  "productId": 1,
+  "productPrice": "$450.00",
+  "stock": 17,
+  "productName": "Berserk Tomo 1"
+  ,"productImage" : "https://imagizer.imageshack.com/v2/280x200q90/924/boC4Rx.jpg"
+}, {
+  "productId": 2,
+  "productPrice": "$450.00",
+  "stock": 16,
+  "productName": "Berserk Tomo 2"
+  ,"productImage" : "https://imagizer.imageshack.com/v2/280x200q90/923/Exv4Wp.jpg"
+}, {
+  "productId": 3,
+  "productPrice": "$450.00",
+  "stock": 24,
+  "productName": "Berserk Tomo 3"
+  ,"productImage" : "https://imagizer.imageshack.com/v2/280x200q90/922/O4cHix.jpg"
+}, {
+  "productId": 4,
+  "productPrice": "$450.00",
+  "stock": 16,
+  "productName": "Berserk Tomo 4"
+  ,"productImage" : "https://imagizer.imageshack.com/v2/280x200q90/923/FYJH4b.jpg"
+}, {
+  "productId": 5,
+  "productPrice": "$450.00",
+  "stock": 10,
+  "productName": "Berserk Tomo 5"
+  ,"productImage" : "https://imagizer.imageshack.com/v2/280x200q90/923/2Cdrjx.jpg"
+}, {
+  "productId": 6,
+  "productPrice": "$450.00",
+  "stock": 17,
+  "productName": "Berserk Tomo 6"
+  ,"productImage" : "https://imagizer.imageshack.com/v2/280x200q90/923/oIr84z.jpg"
+}, {
+  "productId": 7,
+  "productPrice": "$450.00",
+  "stock": 16,
+  "productName": "Berserk Tomo 7"
+  ,"productImage" : "https://imagizer.imageshack.com/v2/280x200q90/924/LCjKNo.jpg"
+}, {
+  "productId": 8,
+  "productPrice": "$450.00",
+  "stock": 1,
+  "productName": "Berserk Tomo 8"
+  ,"productImage" : "https://imagizer.imageshack.com/v2/280x200q90/923/jD7TKP.jpg"
+}, {
+  "productId": 9,
+  "productPrice": "$450.00",
+  "stock": 22,
+  "productName": "Berserk Tomo 9"
+  ,"productImage" : "https://imagizer.imageshack.com/v2/280x200q90/923/W7ghYF.jpg"
+}, {
+  "productId": 10,
+  "productPrice": "$450.00",
+  "stock": 20,
+  "productName": "Berserk Tomo 10"
+  ,"productImage" : "https://imagizer.imageshack.com/v2/280x200q90/923/id1Uw9.jpg"
+
+
+}] 
+
+
+

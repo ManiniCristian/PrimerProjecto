@@ -1,0 +1,36 @@
+.productContainer {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+nav {
+    height: 50px;
+    background-color: black;
+    display: flex;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 36px;
+    position: absolute;
+    right: 20px;
+}
+
+button {
+    cursor: pointer;
+}
+
+.cart {
+    
+    display: flex;
+        flex-wrap: wrap;
+        width: 800px;
+        margin: 30px;
+      overflow: hidden;
+      
+}
+.bodi{
+    background-color: darkgray;
+}
